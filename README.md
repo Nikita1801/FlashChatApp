@@ -1,5 +1,5 @@
 
-# Simple Flash-Chat
+# VELOCITY Chat
 
 ## About this app
 
